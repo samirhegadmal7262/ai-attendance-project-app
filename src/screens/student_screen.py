@@ -127,7 +127,7 @@ def student_screen():
     if photo_source:
         img = np.array(Image.open(photo_source))
 
-        with st.spinner("AI is scanning..").__enter__():
+        with st.spinner("AI is scanning.."):
             detected, all_ids, num_faces = predict_attendance(img)
 
         if num_faces == 0:
