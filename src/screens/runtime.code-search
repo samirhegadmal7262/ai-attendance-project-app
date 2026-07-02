@@ -1,0 +1,11 @@
+# Query: created with
+# ContextLines: 1
+
+2 results - 1 file
+
+src\components\footer.py:
+   8          <div style="margin-top:2rem; display:flex; gap:6px; justify-content:center; items-align:center">
+   9:         <p style="font-weight:bold; color:white;"> Created with ❤️ by Samir Hegadmal</p>  
+  10          
+  20          <div style="margin-top:2rem; display:flex; gap:6px; justify-content:center; items-align:center">
+  21:         <p style="font-weight:bold; color:black;"> Created with ❤️ by Samir Hegadmal </p>  
